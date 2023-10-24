@@ -6,7 +6,7 @@ Automated browsing using Splinter
 HTML parsing with Beautiful Soup
 Casting data to correct types in a Pandas DataFrame
 Data analysis and visualization using matplotlib
-Objective
+## Objective
 This new assignment consists of two technical products. You will submit the following deliverables:
 
 Deliverable 1: Scrape titles and preview text from Mars news articles.
@@ -14,17 +14,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 Data
 Data were extracted from the following web pages. Accessed September 01, 2023 https://static.bc-edx.com/data/web/mars_news/index.html https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
-Technologies Used
-Splinter
-Beautiful Soup
-MatPlotLib
-Pandas
-Results
-The two deliverables can be found in the Output folder.
-
-Screenshot 2023-09-06 at 11 31 30 PM
-An example of the JSON file with article titles and summaries
-Weather Analysis
+## Weather Analysis
 The following questions are answered in the weather_analysis Jupyter Notebook
 
 How many months exist on Mars?
